@@ -2,8 +2,7 @@
 
 # Installation
 
-bash install.sh
+`bash install.sh`
 
 NOTE: You need to make the picture the same size as the terminal size
 
-By Andrey Pavlenko
